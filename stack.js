@@ -1,5 +1,5 @@
 // Stack implementation in JavaScript
- export  class Stack {
+ export class Stack {
        constructor() {
            this.items = [];
        }
